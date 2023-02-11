@@ -87,9 +87,6 @@
 		<loc>https://sochi.vinw.ru/renault.html</loc>
 	</url>
 	<url>
-		<loc>https://sochi.vinw.ru/roverl.html</loc>
-	</url>
-	<url>
 		<loc>https://sochi.vinw.ru/seat.html</loc>
 	</url>
 	<url>
@@ -133,5 +130,8 @@
 	</url>
 	<url>
 		<loc>https://sochi.vinw.ru/chrysler.html</loc>
+	</url>
+	<url>
+		<loc>https://sochi.vinw.ru/rover.html</loc>
 	</url>
 </urlset>
